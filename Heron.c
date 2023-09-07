@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() {
+int Heron() {
   int lado1, lado2, lado3, semi, peri, area;
   printf("Ingrese medida del primer lado del triangulo.\n");
   scanf("%i", &lado1);
